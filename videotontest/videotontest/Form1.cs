@@ -2,7 +2,7 @@
 using System.IO;
 using System.Text.RegularExpressions;
 using System.Windows.Forms;
-using GetID;  // A DLL namespace-e
+using GetID;
 
 namespace GetIDApp
 {
