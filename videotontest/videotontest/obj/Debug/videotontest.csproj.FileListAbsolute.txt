@@ -1,0 +1,14 @@
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videotontest.csproj.AssemblyReference.cache
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\GetIDApp.Form1.resources
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videotontest.Properties.Resources.resources
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videotontest.csproj.GenerateResource.cache
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videotontest.csproj.CoreCompileInputs.cache
+C:\Users\datid\source\repos\videotontest\videotontest\bin\Debug\videotontest.exe.config
+C:\Users\datid\source\repos\videotontest\videotontest\bin\Debug\videotontest.exe
+C:\Users\datid\source\repos\videotontest\videotontest\bin\Debug\videotontest.pdb
+C:\Users\datid\source\repos\videotontest\videotontest\bin\Debug\GetID.dll
+C:\Users\datid\source\repos\videotontest\videotontest\bin\Debug\GetID.xml
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videoton.AFB5B36A.Up2Date
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videotontest.exe
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videotontest.pdb
+C:\Users\datid\source\repos\videotontest\videotontest\obj\Debug\videotontest.exe.config
